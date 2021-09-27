@@ -1,0 +1,36 @@
+.html{
+    background-color: #ffd700;
+}
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ff7f50;
+
+}
+.body.Img{
+    background-color: whitesmoke;
+    margin: 0px;
+}
+.grid{
+    border: 2px solid black;
+    border-radius: 50px;
+    margin: 100px;
+    color: #0000ff;
+    background-color: #00ffff;
+}
+.Oragami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+    padding: auto;
+    margin: 100px;
+    color: #ff0000;
+    background-color: #bdb76b;
+
+}
